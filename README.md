@@ -10,7 +10,7 @@
 
             - colab_notebook_link.txt
                 It contains a link to google colab notebook:
-                    [colab notebook link!](https://colab.research.google.com/drive/1Up1LgiYH_ZEUb4XJEpqJjcF3vQop3aZG?usp=sharing)
+                    https://colab.research.google.com/drive/1Up1LgiYH_ZEUb4XJEpqJjcF3vQop3aZG?usp=sharing
 
             - visualize_history.py
                 It contains some simple code to visualize loss and accuracy of training process.
